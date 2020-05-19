@@ -1,4 +1,4 @@
-# PUBnodemcuKeypad4x4MQTT
+# Keypad 4x4 nodemcu to MQTT
 Arduino code for Robodyn keypad 4x4 + NodeMcu v3  over MQTT
 
 
